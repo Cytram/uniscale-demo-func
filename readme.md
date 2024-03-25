@@ -1,0 +1,1 @@
+dotnet add package --version 1.0.6 ActorCharacter-Messagethreads
